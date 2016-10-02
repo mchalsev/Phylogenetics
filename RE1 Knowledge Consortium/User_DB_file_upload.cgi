@@ -1,13 +1,8 @@
 #!/usr/bin/perl
 #Name:Maria Chalsev
-#Student ID: 035231141
-#course:bif724
-#instructor: John Samuel
 #Date: 02 29 16
 #declaration:
-# I declare that the attached assignment is wholly my own work in accordance with
-# Seneca Academic Policy. No part of this assignment has been copied manually or
-# electronically from any other source (including web sites) or distributed to other students.
+
 # Name: Maria Chalsev
 # ID: 024231141
 #------------------------------------------------------------------------------
