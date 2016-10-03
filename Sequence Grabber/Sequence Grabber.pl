@@ -3,8 +3,8 @@
 #Date: 30.03.16
 
 #********************************************************************************************************************
-                                               #   ..Perl Assignment 2..  #
-#The purpose of this assignment is to learn to extract specific information from a biological database, namely NCBI GenBank, by using BioPerl.
+                                               #   ..BioPerl Sequence Grabber..  #
+#The purpose of this program is to extract specific information from a biological database, namely NCBI GenBank, by using BioPerl.
 # program input: gene name and a file name containing accession numbers
 # program output: fasta file containing a binomeal species name as well as gene/protein sequences, according to input. 
 #***********************************************************************************************************************
